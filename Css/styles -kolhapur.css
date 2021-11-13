@@ -1,0 +1,53 @@
+body{
+  background-color: rgb(211, 171, 115);
+}
+
+h1 {
+  font-size: 40px;
+  font-display: ;
+}
+.row {
+  display: flex;
+}
+
+.column {
+  float: left;
+  width: 15.33%;
+  padding: 05px;
+}
+
+
+.name {
+  font: bold ;
+  position: absolute;
+left: 70px;
+top: 450px ;
+}
+
+.name1 {
+font: bold ;
+position: absolute;
+left: 320px;
+top: 450px ;
+}
+
+.name2 {
+  font: bold ;
+  position: absolute;
+  left: 580px;
+  top: 450px ;
+  }
+
+  .name3 {
+    font: bold ;
+    position: absolute;
+    left: 820px;
+    top: 450px ;
+    }
+
+    .name4 {
+      font: bold ;
+      position: absolute;
+      left: 1060px;
+      top: 450px ;
+      }
